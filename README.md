@@ -1,8 +1,8 @@
 
-# ChatWithYourData_Bot
+# PDFInterrogate
 
 ## Introduction
-This repository contains code for ChatWithYourData_Bot, an AI-powered conversational agent that interacts with data through a question-and-answer mechanism.
+This repository contains code for PDFInterrogate, an AI-powered conversational agent that interacts with data through a question-and-answer mechanism.
 Users can upload a pdf file and then ask any question based on the file uploaded to get answers and a deeper understanding of the document.
 It utilizes pre-trained models, language models, document embeddings, and vector search to retrieve relevant information from provided documents.
 
