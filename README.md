@@ -50,7 +50,13 @@ To run this application. Run the command below in the CLI
 ```bash
   streamlit run chat.py
 ```
+## Video Of Deployment
 
+To view how this application works, click the link below
+
+``` bash
+  https://youtu.be/gAS7-VVkjo4
+```
 
 ## Feedback
 
