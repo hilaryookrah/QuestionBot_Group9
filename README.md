@@ -7,6 +7,7 @@ Users can upload a pdf file and then ask any question based on the file uploaded
 It utilizes pre-trained models, language models, document embeddings, and vector search to retrieve relevant information from provided documents.
 
 ## Installation
+It is advisable to run in a virtual environment
 
 ### Libraries
 Ensure you have the necessary Python libraries installed. Use the following commands:
@@ -40,16 +41,14 @@ Query and Retrieve Information: Retrieve information by asking questions. Exampl
 Chatting:
 
 Engage in a conversation with the AI-powered model, querying information based on the loaded documents.
-Dashboard Interface (Optional):
 
-Run the provided code to set up a dashboard for an interactive interface. Follow the provided instructions within the code for loading documents and interacting with the bot.
 
 ## Deployment
 
-To view how this application works. Click the link below
+To run this application. Run the command below in the CLI
 
 ```bash
-  npm run deploy
+  streamlit run chat.py
 ```
 
 
